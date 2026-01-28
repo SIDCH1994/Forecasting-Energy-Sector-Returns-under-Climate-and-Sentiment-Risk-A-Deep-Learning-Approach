@@ -1,0 +1,17 @@
+# Jupyter / IDE artifacts
+.virtual_documents/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
